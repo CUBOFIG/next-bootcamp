@@ -1,0 +1,6 @@
+[submodule "exercise-images"]
+	path = exercise-images
+	url = git@github.com:CUBOFIG/exercise-images.git
+[submodule "next-essentials-one/exercise-images"]
+	path = next-essentials-one/exercise-images
+	url = git@github.com:CUBOFIG/exercise-images.git
